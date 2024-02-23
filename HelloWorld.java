@@ -2,6 +2,6 @@ class HelloWorld
 {
     public static void main(String args[])
     {
-        System.out.println("Hkj")
+        System.out.println("Hkjfgf")
     }
 }
